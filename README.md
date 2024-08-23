@@ -17,6 +17,10 @@ Here, you will find the following directories:
 
 3. Visual Studio Code: Install [VS Code](https://code.visualstudio.com/)
 
+4. [Docker Desktop](https://www.docker.com/products/docker-desktop/)
+
+5. [Dev Containers Extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
+
 ## Setup a fork
 
 Follow the instructions in the [setup](./setup-fork/README.md) directory to set up your fork of this repository.
