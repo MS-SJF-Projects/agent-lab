@@ -11,22 +11,16 @@ Here, you will find the following directories:
 
 ## Prerequisites
 
-1. Azure subscription, free tier: Create an account or use your existing account to sign up for a free azure subscription following the instructions on [this page](https://azure.microsoft.com/free/).
+1. Github Account: Create an account or use your existing account for [Github](https://github.com)
 
-2. Github Account: Create an account or use your existing account for [Github](https://github.com)
+2. Git: Install [Git](https://github.com/git-guides/install-git) on your computer
 
-3. Git: Install [Git](https://github.com/git-guides/install-git) on your computer
+3. Visual Studio Code: Install [VS Code](https://code.visualstudio.com/)
 
-4. Visual Studio Code: Install [VS Code](https://code.visualstudio.com/)
+## Setup a fork
 
-5. VSCode Remote Extensions: Install the VSCode [Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack) extension pack by Microsoft
+Follow the instructions in the [setup](./setup-fork/README.md) directory to set up your fork of this repository.
 
-6. Docker: Install [Docker Desktop](https://www.docker.com/)
+## Start the lab
 
-## Setup a fork and local development environment
-
-Follow the instructions in the [setup](./setup/README.md) directory to set up your fork and local development environment.
-
-## Next steps
-
-To get started, check out the [Agent Lab introduction](./agent-lab/README.md).
+To get started with the lab, check out the [Agent Lab introduction](./agent-lab/README.md).

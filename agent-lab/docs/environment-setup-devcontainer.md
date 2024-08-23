@@ -4,7 +4,6 @@ The repository includes a [Dev Container](https://code.visualstudio.com/docs/dev
 You will need:
 
 - [Docker Desktop](https://www.docker.com/products/docker-desktop/)
-- [VSCode](https://code.visualstudio.com/)
 - [Dev Containers Extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) installed.
 
 ## Configure environment variables
@@ -26,11 +25,16 @@ Clone the repository & open it with VS Code.
 
 Press `Ctrl` + `Shift` + `P` in VS code:
 
-```
-> Dev Containers: Rebuild and Reopen in Container
+```text
+> Dev Containers: Reopen in Container
 ```
 
+![Picture of VSCode command palette with command reopen in container](./images/container_command.png 'Reopen in container command')
+
 Wait for the Dev Container to be created.
+Once the container is running the bottom left of your VSCode window will show that the dev container is running:
+
+![VSCode window shows running dev container](./images/devcontainer.png 'Dev container is running')
 
 ## Open Notebooks
 

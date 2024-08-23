@@ -20,16 +20,6 @@ Once you have cloned the repository, open it in VSCode. You can either open VSCo
 code .
 ```
 
-The last step for local development is reopening the project inside the [development container](https://code.visualstudio.com/docs/remote/containers). Note that for this to work, Docker must be running on your computer. To run Docker, simply open Docker Desktop.
-
-In VSCode open up the command palette (Ctrl+Shift+P) and search for `Remote-Containers: Reopen in container`.
-
-![Picture of VSCode command palette with command reopen in container](./container_command.png 'Reopen in container command')
-
-Once the container is running the bottom left of your VSCode window will show that the dev container is running:
-
-![VSCode window shows running dev container](./devcontainer.png 'Dev container is running')
-
 Now you are all set to start developing in your personal fork.
 
 ## [Return to Main Index](../README.md)
