@@ -23,7 +23,7 @@ Here, you will find the following directories:
 
 6. [Dev Containers Extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
 
-## Setup a fork
+## Fork the repository
 
 Follow the instructions in the [setup](./setup-fork/README.md) directory to set up your fork of this repository.
 
