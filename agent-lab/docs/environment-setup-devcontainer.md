@@ -32,7 +32,7 @@ Press `Ctrl` + `Shift` + `P` in VS code:
 ![Picture of VSCode command palette with command reopen in container](./images/container_command.png 'Reopen in container command')
 
 Wait for the Dev Container to be created.
-Once the container is running the bottom left of your VSCode window will show that the dev container is running:
+Once the container is started, the bottom left of your VSCode window will show that the Dev Container is running:
 
 ![VSCode window shows running dev container](./images/devcontainer.png 'Dev container is running')
 
