@@ -11,7 +11,7 @@ Using a simple step-by-step approach we will create a solution which can use nat
 
 ### About the data involved
 
-All the data you are gonna see (and generate) will be saved in a local SQL-Lite database represented by the `services/data/agent-lab.db` file.  
+All the data you are gonna see (and generate) will be saved in a local SQL-Lite database represented by the [`agent-lab.db`](../notebooks/services/data/agent-lab.db) file.  
 The repo contains a ready to use database so you don't have to do anything on this side.
 
 For those interested, here are the tables it contains:
