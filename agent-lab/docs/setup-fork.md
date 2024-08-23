@@ -1,4 +1,4 @@
-# Set up local development environment
+# Fork the repository
 
 The repository you will be working on is this repository. To set up your
 environment for local development in this repository, you have to create a fork of the above repository under your
@@ -22,4 +22,4 @@ code .
 
 Now you are all set to start developing in your personal fork.
 
-## [Return to Main Index](../README.md)
+## [Start the lab](../README.md)
