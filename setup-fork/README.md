@@ -1,6 +1,6 @@
 # Set up local development environment
 
-The repository you will be working on is this repository . To set up your
+The repository you will be working on is this repository. To set up your
 environment for local development in this repository, you have to create a fork of the above repository under your
 personal github account. This ensures that your changes don't affect the original repository or the changes of other users.
 
