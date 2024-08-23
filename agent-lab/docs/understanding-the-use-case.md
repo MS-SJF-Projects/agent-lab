@@ -4,11 +4,10 @@
 
 Using a simple step-by-step approach we will create a solution which can use natural language to:  
 
-  - Provide information regarding opening hours and available menus.
-  - Place an order.
-  - Ask for your pending orders.
-  - Cancel a pending order.
-
+- Provide information regarding opening hours and available menus.
+- Place an order.
+- Ask for your pending orders.
+- Cancel a pending order.
 
 ### About the data involved
 
@@ -17,10 +16,9 @@ The repo contains a ready to use database so you don't have to do anything on th
 
 For those interested, here are the tables it contains:
 
-<img src="images/db-tables.png" width="600">    
+<img src="images/db-tables.png" width="600">
 
-
-Feel free to have a look at the files used as sample-data if you want to know more about the contents of the database. 
+Feel free to have a look at the files used as sample-data if you want to know more about the contents of the database.
 
 Is important to know that, when you want to *place*, *see* or *cancel* an order you would need to identify yourself as one of the three users actually present in the database that are:  
 
@@ -37,6 +35,3 @@ This [notebook](../notebooks/99-db_utility.ipynb) contains utility cells that yo
 1. Reset the database and reload the data from the json files.
 2. Add new customers.
 3. Change the status of an order.
-
-
-

@@ -12,7 +12,8 @@
         "prompt-flow.prompt-flow",
         "ms-python.black-formatter",
         "DavidAnson.vscode-markdownlint",
-        "yzhang.markdown-all-in-one"
+        "yzhang.markdown-all-in-one",
+        "ms-azuretools.vscode-docker"
       ],
       "settings": {
         "terminal.integrated.shell.linux": "/bin/bash",

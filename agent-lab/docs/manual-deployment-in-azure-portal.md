@@ -37,21 +37,20 @@
 
 12. Once the operation has completed, click the `Go to resource` button.
 
-    <img src="images/creation-completed.png" width="600"> 
+    <img src="images/creation-completed.png" width="600">
 
 13. In the just created OpenAI resource, click the  **Endpoint** link (1)
 
     <img src="images/created-azure-openai.png" width="1000">  
 
-
 14. In the **Keys and Enpoint** page copy the value of both **Key 1** (1) and **Endpoint** (2) ❗ because you will need them later.
 
-    <img src="images/key-and-endpoint.png" width="800"> 
+    <img src="images/key-and-endpoint.png" width="800">
 
 15. Navigate back to the previous page and click the `Go to Azure OpenAI Studio`(2) button.
 16. In the Azure OpenAI studio portal click the `Deployments` menu on the left, select `Deploy model` and then `Deploy base model`.  
 
-    <img src="images/create-deployment.png" width="800"> 
+    <img src="images/create-deployment.png" width="800">
 17. On the `Select a model`, choose gpt-4.
 
 18. On the **Deploy model gpt-4** form use the following values.
@@ -63,10 +62,3 @@
 
 19. Click the `Deploy` button and wait the deployment to complete.
 20. You're done! Now return to configure the lab.
-
-
-
-
-
-
-
