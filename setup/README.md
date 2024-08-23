@@ -8,9 +8,11 @@ To set up your fork of this repository, follow [these instructions](https://docs
 
 > 📝 **Note:** You do not have to set up the fork to sync with the original repository.
 
-Now, you have to clone the new repository which is under your github account to your computer. To do so,
+Now, you have to clone the new **forked** repository which is under your github account to your computer. To do so,
 follow this [github documentation](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
 You may use either `https` or `ssh` cloning.
+
+> ⚠️ **IMPORTANT:** Make sure you're cloning your new fork, not the original repository - otherwise you will not be able to make commits
 
 Once you have cloned the repository, open it in VSCode. You can either open VSCode manually and open the project from inside VSCode or you can use a terminal, navigate to the repository folder and use this command:
 
