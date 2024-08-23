@@ -13,13 +13,15 @@ Here, you will find the following directories:
 
 1. Github Account: Create an account or use your existing account for [Github](https://github.com)
 
-2. Git: Install [Git](https://github.com/git-guides/install-git) on your computer
+2. Microsoft Account: Create an account or use your existing account for [Microsoft](https://account.microsoft.com/account)
 
-3. Visual Studio Code: Install [VS Code](https://code.visualstudio.com/)
+3. Git: Install [Git](https://github.com/git-guides/install-git) on your computer
 
-4. [Docker Desktop](https://www.docker.com/products/docker-desktop/)
+4. Visual Studio Code: Install [VS Code](https://code.visualstudio.com/)
 
-5. [Dev Containers Extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
+5. [Docker Desktop](https://www.docker.com/products/docker-desktop/)
+
+6. [Dev Containers Extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
 
 ## Setup a fork
 
