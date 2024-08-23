@@ -13,7 +13,7 @@ Here, you will find the following directories:
 
 1. Github Account: Create an account or use your existing account for [Github](https://github.com)
 
-2. Microsoft Account: Create an account or use your existing account for [Microsoft](https://account.microsoft.com/account)
+2. Microsoft Account: Create an account or use your existing account for [Microsoft](https://account.microsoft.com/account). This will be required to access Azure resources.
 
 3. Git: Install [Git](https://github.com/git-guides/install-git) on your computer
 
